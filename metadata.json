@@ -1,0 +1,6 @@
+{
+  "name": "AccessBridge",
+  "description": "Inclusive real-time assistive communication bridge for Deaf, Hard of Hearing, Mute/Non-Verbal, and Blind/Visually Impaired conversations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
